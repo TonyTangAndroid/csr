@@ -1,1 +1,3 @@
 include ':netsecurity'
+include ':netsecurity-netcipher'
+include ':demo'
